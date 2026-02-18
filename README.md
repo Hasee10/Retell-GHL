@@ -15,7 +15,7 @@ This integration allows for seamless data flow between automated voice interacti
 
 ## 🏗 Tech Stack
 
-* **Voice AI:** [Vapi](https://vapi.ai/)
+* **Voice AI:** [RetellAi](https://retell.ai/)
 * **CRM:** [GoHighLevel](https://www.gohighlevel.com/)
 * **Backend:** [Node.js / Python / Go - specify your language]
 * **API:** GHL OAuth 2.0 / API V2
@@ -35,7 +35,7 @@ This integration allows for seamless data flow between automated voice interacti
 2.  **Environment Variables:**
     Create a `.env` file and add your credentials:
     ```env
-    VAPI_API_KEY=your_key_here
+    RETELL_API_KEY=your_key_here
     GHL_API_KEY=your_key_here
     ```
 3.  **Deploy:**
